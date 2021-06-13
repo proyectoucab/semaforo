@@ -1,0 +1,23 @@
+13
+AB AC AD BA BC BD DA DB DC EA EB EC ED
+AB - BC
+AB - BD
+DA - AB
+AB - EA
+AC - BD
+AC - DA
+AC - DB
+AC - EA
+AC - EB
+AD - EA
+AD - EB
+AD - EC
+BC - DB
+BC - EB
+BD - DA
+BD - EB
+BD - EC
+DA - EB
+DA - EC
+DB - EC
+
